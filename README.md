@@ -20,6 +20,8 @@ I'm a full-stack developer & teacher from Belgium who loves building robust web 
 
 <a href="https://www.linkedin.com/in/maxime-bartier-1472b633/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" alt="LinkedIn"/></a>
 <a href="http://bartier-maxime.be/en" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" title="My website" alt="My website"/></a>
+<a href="https://www.arkdevel.be/" target="_blank"><img src="https://img.shields.io/badge/Ark_Devel-4A154B?style=for-the-badge&logo=googlechrome&logoColor=white" title="Ark Devel" alt="Ark Devel"/></a>
+<a href="http://arklight.be/" target="_blank"><img src="https://img.shields.io/badge/Ark_Light-FF6F00?style=for-the-badge&logo=googlechrome&logoColor=white" title="Ark Light" alt="Ark Light"/></a>
 
 ## Toolset
 
