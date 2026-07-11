@@ -38,13 +38,13 @@ I'm a full-stack developer & teacher from Belgium who loves building robust web 
     <tr>
         <td>Frontend</td>
         <td>
-            <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40" title="HTML5" alt="HTML5"/>
-            <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40" title="CSS3" alt="CSS3"/>
-            <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40" title="Javascript" alt="Javascript"/>
             <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="40" height="40" title="Vue.js" alt="Vue.js"/>
             <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" width="40" height="40" title="Nuxt.js" alt="Nuxt.js"/>
+            <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40" title="Javascript" alt="Javascript"/>
             <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40" title="React" alt="React"/>
             <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="40" height="40" title="SCSS/SASS" alt="SCSS/SASS"/>
+            <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40" title="HTML5" alt="HTML5"/>
+            <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40" title="CSS3" alt="CSS3"/>
         </td>
     </tr>
     <tr>
@@ -75,10 +75,10 @@ I'm a full-stack developer & teacher from Belgium who loves building robust web 
     <tr>
         <td>Others</td>
         <td>
+            <img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" width="40" height="40" title="nvim" alt="NeoVim"/>
             <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40" title="Git" alt="Git"/>
             <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40" height="40" title="Github" alt="Github"/>
             <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" width="40" height="40" title="Gitlab" alt="Gitlab"/>
-            <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40" title="VS Code" alt="VS Code"/>
             <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" title="Postman" alt="Postman"/>
             <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40" height="40" title="Figma" alt="Figma"/>
         </td>
